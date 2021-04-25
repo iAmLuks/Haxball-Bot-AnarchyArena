@@ -5,4 +5,4 @@ Bot script for Haxball Anarchy
 2. Paste into headless https://www.haxball.com/headless
 3. good to go
 
-www.anarchyhax.ml
+www.haxballplanet.com
